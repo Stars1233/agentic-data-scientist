@@ -20,6 +20,8 @@ Agentic Data Scientist is an open-source framework that uses a sophisticated mul
 
 > **Stay up to date:** Follow K-Dense on [X](https://x.com/k_dense_ai), [LinkedIn](https://www.linkedin.com/company/k-dense-inc), and [YouTube](https://www.youtube.com/@K-Dense-Inc) for new features, release announcements, walkthroughs, and research workflow demos.
 
+> 🎬 **Prefer to watch first?** [End-to-End Workflow Demo](https://youtu.be/2DY4-SYEi3Q) follows a full run from research question to finished results and figures. More walkthroughs on the [K-Dense YouTube channel](https://www.youtube.com/@K-Dense-Inc).
+
 ## Features
 
 - 🤖 **Adaptive Multi-Agent Workflow**: Iterative planning, execution, validation, and reflection
