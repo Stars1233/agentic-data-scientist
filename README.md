@@ -7,6 +7,7 @@
 [![X](https://img.shields.io/badge/Follow_on_X-%40k__dense__ai-000000?logo=x)](https://x.com/k_dense_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-K--Dense_Inc.-0A66C2?logo=linkedin)](https://www.linkedin.com/company/k-dense-inc)
 [![YouTube](https://img.shields.io/badge/YouTube-K--Dense_Inc.-FF0000?logo=youtube)](https://www.youtube.com/@K-Dense-Inc)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2F--k--dense---FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/-k-dense-/)
 
 ## K-Dense Web
 
@@ -19,6 +20,8 @@ Agentic Data Scientist is an open-source framework that uses a sophisticated mul
 > ⭐ **If Agentic Data Scientist saves you time or helps your work move faster, please [star this repository](https://github.com/K-Dense-AI/agentic-data-scientist).** A star helps other data scientists, engineers, and open-source contributors find the project, and gives us a clear reason to keep expanding it for the community.
 
 > **Stay up to date:** Follow K-Dense on [X](https://x.com/k_dense_ai), [LinkedIn](https://www.linkedin.com/company/k-dense-inc), and [YouTube](https://www.youtube.com/@K-Dense-Inc) for new features, release announcements, walkthroughs, and research workflow demos.
+
+> 🎬 **Prefer to watch first?** [End-to-End Workflow Demo](https://youtu.be/2DY4-SYEi3Q) follows a full run from research question to finished results and figures. More walkthroughs on the [K-Dense YouTube channel](https://www.youtube.com/@K-Dense-Inc).
 
 ## Features
 
